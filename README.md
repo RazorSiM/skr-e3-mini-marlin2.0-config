@@ -20,7 +20,7 @@ I changed the pins association to get the probe pins working:
 
 **Linear Advance** set to 0.6 for my Ender 3 
 
-**EEPROM SDCard Emulation** to be tested. It should save the config in a file named eeprom.dat in to the SD Card
+**EEPROM SDCard Emulation** ~~to be tested~~ It works. It ~~should~~ saves the config in a file named EEPROM.DAT in to the SD Card
 
 **Disabled** every bootscreen and some minor things to get more usefull features enabled.
 * Info Menu ( useless )
